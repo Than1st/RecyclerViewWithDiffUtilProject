@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recycler Project</string>
+    <string name="nama_text">Nama</string>
+    <string name="nomor_text">Nomor</string>
+    <string name="nomor_handphone_text">Nomor Handphone</string>
+    <string name="nama_anda_text">Nama Anda</string>
+    <string name="cek_text">Cek!</string>
+</resources>
